@@ -17,15 +17,7 @@
 ![](https://img.shields.io/github/last-commit/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App)
   
  
- <h4>
-    <a href="https://priyanshu88-diabestes-prediction-streamlit-app-main-5komds.streamlit.app/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App/issues">Request Feature</a>
-  </h4>
+
 </div>
 
 <br />
@@ -103,15 +95,6 @@ streamlit run app.py
 
 
 
-## :triangular_flag_on_post: Deployment and Notebook
-
-This tool has been deployed using [`Streamlit`](https://streamlit.io/). Learn about streamlit deployment [`here`](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app). Checkout the notebook repository [`here`](https://github.com/Priyanshu88/Pan-Card-Tampering-Detection).
-
-
-
-## :balance_scale: License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App/blob/main/LICENSE) file for details.
 
 
 
