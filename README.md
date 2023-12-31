@@ -98,13 +98,5 @@ streamlit run app.py
 
 
 
-## :handshake: Contact
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
-
-Project Link: [https://github.com/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App.git](https://github.com/Priyanshu88/Pan-Card-Tampering-Detection-Streamlit-App.git)
-<hr />
-<br />
 <div align="center">Don't forget to leave a star ⭐️</div>
