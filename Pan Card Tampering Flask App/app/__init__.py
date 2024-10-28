@@ -1,5 +1,6 @@
 from flask import Flask
 from . import config  # Import config from the same directory
+from .config import ProductionConfig, DevelopmentConfig, TestingConfig
 
 app = Flask(__name__)
 
