@@ -1,5 +1,5 @@
 from flask import Flask
-
+from .. import config
 app = Flask(__name__)
 
 # Set the ENV configuration if not already set
