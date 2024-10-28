@@ -1,5 +1,5 @@
 from flask import Flask
-from app import config  # Import config from the same directory
+from . import config  # Import config from the same directory
 
 app = Flask(__name__)
 
