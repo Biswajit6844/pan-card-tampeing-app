@@ -1,5 +1,8 @@
 from flask import Flask
 from .. import config
+
+
+
 app = Flask(__name__)
 
 # Set the ENV configuration if not already set
@@ -11,5 +14,4 @@ elif app.config["ENV"] == "testing":
     app.config.from_object("config.TestingConfig")
 else:
     app.config.from_object("config.ProductionConfig")
-
 from app import views
